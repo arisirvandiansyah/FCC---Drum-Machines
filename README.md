@@ -1,8 +1,8 @@
 # FreeCodeCamp - Front End Development Libraries
 
-## Markdown Previewer Project
+## Drum Machines Project
 
-[TECH USED] - Vite(React), Marked.JS, React Icons
+[TECH USED] - Vite(React)
 
 - [ Demo ] - (https://aris-drum-machines.netlify.app/)
 
